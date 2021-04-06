@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(250, 250, 245);
+}
+
+table{
+    border:solid 7px rgb(249, 246, 246);
+    border-width: 10px;
+    height: 250px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th{
+    border: solid 5px rgb(5, 5, 5);
+    border-width: 1px;
+}
